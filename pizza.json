@@ -1,0 +1,110 @@
+{
+    "menu": [
+        {
+            "kategori": "Pizza",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg"
+
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "Super Supreme",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+            "harga": 49500,
+            "gambar": "supreme.jpg"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "Tuna Melt",
+            "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+            "harga": 49500,
+            "gambar": "tuna-melt.jpg"
+        },
+        {
+            "kategori": "Pizza",
+            "nama": "American Favourite",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 49500,
+            "gambar": "american-favourite.jpg"
+        },
+        {
+            "kategori": "Pasta",
+            "nama": "Beef Spaghetti",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 43000,
+            "gambar": "beef-spaghetti.jpg"
+        },
+        {
+            "kategori": "Pasta",
+            "nama": "Beef Lasagna",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "harga": 48000,
+            "gambar": "beef-lasagna.jpg"
+        },
+        {
+            "kategori": "Pasta",
+            "nama": "Creamy Beef Fettuccine",
+            "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+            "harga": 43000,
+            "gambar": "creamy-beef-fettuccine.jpg"
+        },
+        {
+            "kategori": "Nasi",
+            "nama": "Meatballs Beef Mushroom",
+            "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
+            "harga": 40000,
+            "gambar": "meatballs-beef-mushroom.jpg"
+        },
+        {
+            "kategori": "Nasi",
+            "nama": "Black Pepper Chicken",
+            "deskripsi": "Ayam dengan saus lada hitam.",
+            "harga": 40000,
+            "gambar": "black-pepper-chicken.jpg"
+        },
+        {
+            "kategori": "Nasi",
+            "nama": "Oriental Chicken",
+            "deskripsi": "Daging ayam berpadu dengan saus oriental.",
+            "harga": 40000,
+            "gambar": "oriental-chicken.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Choco Mint",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Toffee Coffee",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "toffee-coffee.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Green Tea Shake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "harga": 24000,
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
